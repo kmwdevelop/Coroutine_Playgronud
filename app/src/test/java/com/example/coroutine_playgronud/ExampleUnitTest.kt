@@ -1,5 +1,8 @@
 package com.example.coroutine_playgronud
 
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.launch
 import org.junit.Test
 
 import org.junit.Assert.*
